@@ -37,12 +37,6 @@ Amazon Product Review Dashboard
 | **KMS Inventory Analysis** | SQL queries for sales & operations | SQL |
 | **Amazon Review Dashboard** | Price, rating, discount insights | Excel |
 ---
-## 🚀 Where I’m Headed
-I’m looking forward to advancing my skills in:
-- Intermediate Power BI (DAX, relationships)
-- Excel automation (macros, validation)
-- Python for data wrangling and basic analytics
----
 ## 🛍️ Case Study Overview
 This Excel-based analysis explores Amazon product review data across 14 business questions. It includes discount strategy evaluation, rating distribution, and revenue estimation.
 ## 📊Tools Used
@@ -66,7 +60,6 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Top 5 products by score
 ## 📁Files Included
 - Amazon case study-Excel-Oluwatosin Oladunni Oyekola — All data, pivots, and dashboard sheets
-
 ## 📌 Key Metrics & Insights
 _- 20+ products discounted ≥50%
 - 5 top-scoring products had ratings over 4.5 with high review volumes
@@ -81,6 +74,11 @@ Under this plane I equippped myself with the following using the following comma
 ## THE LEVELED PLANE OF POWER BI
 This is the plane upon which I can say I fly
 
+## 🚀 Where I’m Headed
+I’m looking forward to advancing my skills in:
+- Intermediate Power BI (DAX, relationships)
+- Excel automation (macros, validation)
+- Python for data wrangling and basic analytics
 ## 📫 Let's Connect
 - 📧 Email: oluwatosinobiheritage061@gmail.com
 - 🔗 LinkedIn: (https://linkedin.com/in/oluwatosin_obisesan)
