@@ -14,7 +14,7 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Pivot Tables and Charts
 - Calculated Columns and Filters
 
-🔍Analysis Tasks (1–14)
+## 🔍Analysis Tasks (1–14)
 - Average discount % by category
 - Product count per category
 - Total reviews by category
@@ -34,15 +34,15 @@ This Excel-based analysis explores Amazon product review data across 14 business
 
 Amazon case study-Excel-Oluwatosin Oladunni Oyekola — All data, pivots, and dashboard sheets
 
-## Key Metrics & Insights
+## 📌 Key Metrics & Insights
 
 _20+ products discounted ≥50%
 5 top-scoring products had ratings over 4.5 with high review volumes
 Price buckets help identify most competitive pricing zones_
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-__Excel dashboards
+_Excel dashboards
 Business metrics analysis
 Data visualization
 Insight-driven storytelling_
