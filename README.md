@@ -75,7 +75,7 @@ What I Did; Dashboard Highlights:
 | **KMS Inventory Analysis** | SQL queries for sales & operations | SQL |
 ---
 ## 🎯 Skills Demonstrated
-_- Excel dashboards
+- Excel dashboards
 - Business metrics analysis
 - Data visualization
 - Insight-driven storytelling_
@@ -88,3 +88,7 @@ I’m looking forward to advancing my skills in:
 - 🌐 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Tosoye-blue?style=social&logo=github)](https://github.com/Tosoye)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347032328005)
 - [![Email](https://img.shields.io/badge/Email-oluwatosinobiheritage061@gmail.com-blue?style=social&logo=gmail)](mailto:oluwatosinobiheritage061@gmail.com)
+
+
+
+> 💡 “Transforming data into actionable insights to drive informed decisions in healthcare and beyond.” – Oluwatosin OYEKOLA
