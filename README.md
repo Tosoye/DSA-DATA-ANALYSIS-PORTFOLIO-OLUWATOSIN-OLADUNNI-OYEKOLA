@@ -2,7 +2,7 @@
 Welcome to my GitHub portfolio!
 ### 🎯 An excellent Data Analyst & Nurse | Excel • SQL • Power BI
 As a detail-oriented nurse with a passion for data analysis, I bring a unique perspective to the world of data insights. With experience in patient care and data storytelling, I'm dedicated to helping healthcare professionals make informed decisions.
-
+---
 ## 🧭 My Data Analyst Learning Journey
 Before diving into data analysis, I worked as a nurse, developing strong critical thinking and problem-solving skills. Today, I apply these skills to analyze complex data sets, identify trends, and create actionable insights.
 ---
@@ -40,6 +40,7 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Products with < 1,000 reviews
 - Max discount by category
 - Top 5 products by score
+  ---
 ### 2 📈 Power BI  for Visual Storytelling – Palmoria HR Analytics - My second Project
 Role: Power BI Analyst  
 Tools: Power BI, Excel  
@@ -57,7 +58,7 @@ What I Did; Dashboard Highlights:
 - Designing reports using slicers, cards, tables, and charts
 - Excellently making use of my Pivot table for an accurate analysis
 - Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
----
+  ---
 ### 3 🟢 KMS Inventory SQL Case Study -
 **Role:** Data Analyst (SQL + Excel)
 - As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in **SQL Server**, wrote performance-optimized queries, and exported insights to Excel for review.
@@ -86,6 +87,7 @@ I’m looking forward to advancing my skills in:
 - Python for data wrangling and basic analytics
 ## 📫 Let's Connect
 - 🌐 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Tosoye-blue?style=social&logo=github)](https://github.com/Tosoye)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Obisesan%20Oluwatosin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/obisesan-oluwatosin-ba935a22b)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347032328005)
 - [![Email](https://img.shields.io/badge/Email-oluwatosinobiheritage061@gmail.com-blue?style=social&logo=gmail)](mailto:oluwatosinobiheritage061@gmail.com)
 
