@@ -86,6 +86,5 @@ I’m looking forward to advancing my skills in:
 - Python for data wrangling and basic analytics
 ## 📫 Let's Connect
 - 🌐 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Tosoye-blue?style=social&logo=github)](https://github.com/Tosoye)
-- [!https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/2347032328005)
-- [!https://img.shields.io/badge/LinkedIn-Oluwatosin%20OYEKOLA-blue?style=social&logo=linkedin](https://www.linkedin.com/in/felix-oyekola-105aaa116)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347032328005)
 - [![Email](https://img.shields.io/badge/Email-oluwatosinobiheritage061@gmail.com-blue?style=social&logo=gmail)](mailto:oluwatosinobiheritage061@gmail.com)
