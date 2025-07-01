@@ -1,17 +1,15 @@
-# DSA-DATA-ANALYSIS-PORTFOLIO-OLUWATOSIN-OLADUNNI-OYEKOLA
-My Data Analysis Journey
 # 👋 Hi, I'm Oluwatosin — Aspiring Data Analyst
 Welcome to my GitHub portfolio!
-I'm a passionate and detail-driven data analyst with a growing command of **Excel**, **SQL**, and **Power BI**. Through the help of great Tutors at the Incubator Hub, self-guided learning and real-world case studies, I’ve developed strong analytical and storytelling skills that bring clarity to raw data.
+### 🎯 An excellent Data Analyst & Nurse | Excel • SQL • Power BI
+As a detail-oriented nurse with a passion for data analysis, I bring a unique perspective to the world of data insights. With experience in patient care and data storytelling, I'm dedicated to helping healthcare professionals make informed decisions.
+
 ## 🧭 My Data Analyst Learning Journey
-I began my journey with a strong interest in uncovering insights from raw data. Over time, I’ve built core analytical skills by working on real-world case studies across different industries — including HR, retail, and e-commerce — using tools like **Excel**, **SQL**, and **Power BI**.
+Before diving into data analysis, I worked as a nurse, developing strong critical thinking and problem-solving skills. Today, I apply these skills to analyze complex data sets, identify trends, and create actionable insights.
 ---
 # 🧠 WHAT I'VE LEARNED
-## THE RIGOROUS ROAD OF EXCEL WITH THE INCUBATOR HUB
-My excel experienece-A pivot ground upon which it is important for me to Excel!
-[Uploading Amazon case study-Excel-Oluwatosin Oladunni Oyekola.xlsx…]()
-Amazon Product Review Dashboard
-### 📊 Excel for Data Analysis 
+## THE EXCEL WITH WHICH I EXCELLED WITH THE HELP OF INCUBATOR HUB
+My excel experienece is a pivotal ground upon which it was and still is important for me to Excel!
+### 1 📊 Excel for Data Analysis - My First Project
 - Data cleaning and formatting
 - Advanced formulas: IF, VLOOKUP, INDEX/MATCH, SUBSTITUTE
 - Conditional formatting for quick insights
@@ -19,24 +17,8 @@ Amazon Product Review Dashboard
   - Revenue, Discount Flags, Price Buckets, Review Count
 - Building Pivot Tables and Charts for analysis
 - Interactive Dashboards using Slicers and Filters
-### 💻 SQL for Business Intelligence
-- Proficient with SELECT, JOIN, GROUP BY, ORDER BY, WHERE, HAVING
-- Filtering, aggregating, and ranking data
-- Writing subqueries and using aliases
-- Case study: KMS Inventory – analyzed customer orders, shipping patterns, and operational gaps
-### 📈 Power BI for Visual Storytelling
-- Connecting Excel and CSV data
-- Designing reports using slicers, cards, tables, and charts
-- Writing DAX measures for calculated KPIs
-- Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
----
-## 🧪 Real Case Studies I Completed
-| Case Study | Focus | Tools |
-|------------|-------|-------|
-| **Palmoria HR Analytics** | Pay gap, salary band, bonus calculation | Excel, Power BI |
-| **KMS Inventory Analysis** | SQL queries for sales & operations | SQL |
-| **Amazon Review Dashboard** | Price, rating, discount insights | Excel |
----
+[Uploading Amazon case study-Excel-Oluwatosin Oladunni Oyekola.xlsx…]()
+Amazon Product Review Dashboard
 ## 🛍️ Case Study Overview
 This Excel-based analysis explores Amazon product review data across 14 business questions. It includes discount strategy evaluation, rating distribution, and revenue estimation.
 ## 📊Tools Used
@@ -58,27 +40,52 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Products with < 1,000 reviews
 - Max discount by category
 - Top 5 products by score
-## 📁Files Included
-- Amazon case study-Excel-Oluwatosin Oladunni Oyekola — All data, pivots, and dashboard sheets
-## 📌 Key Metrics & Insights
-_- 20+ products discounted ≥50%
-- 5 top-scoring products had ratings over 4.5 with high review volumes
-- Price buckets help identify most competitive pricing zones_
+### 2 📈 Power BI  for Visual Storytelling – Palmoria HR Analytics - My second Project
+Role: Power BI Analyst  
+Tools: Power BI, Excel  
+Focus: Gender equality, salary compliance, bonus allocation  
+What I Did; Dashboard Highlights:
+- Visualized gender distribution by region and department
+- Highlighted performance ratings and salary gaps by gender
+- Analyzed $90,000 minimum wage compliance
+- Calculated bonuses and total compensation using DAX
+## 📊 Interactive dashboard with slicers
+### File for analysis: [Palmoria_HR_Analysis Sheets-Oluwatosin Oyekola.xlsx](https://github.com/user-attachments/files/20997450/Palmoria_HR_Analysis.Sheets-Oluwatosin.Oyekola.xlsx) (Sheets Report and Analysis)
+[Palmoria files for Project submission DSA-Oluwatosin Oyekola.pdf](https://github.com/user-attachments/files/20997464/Palmoria.files.for.Project.submission.DSA-Oluwatosin.Oyekola.pdf) (Dashboard Representations)
+##### In the above files, I was able to do the following:
+- Connecting Excel and CSV data
+- Designing reports using slicers, cards, tables, and charts
+- Excellemtly making use of my Pivot table for an accurate analysis
+- Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
+---
+### 3 🟢 KMS Inventory SQL Case Study -
+**Role:** Data Analyst (SQL + Excel)
+- As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in **SQL Server**, wrote performance-optimized queries, and exported insights to Excel for review.
+**Key Contributions:**
+- Identified top and bottom performing customers and product categories
+- Assessed shipping costs vs. order priorities
+- Joined and filtered data across multiple dimensions (customer, time, geography)
+- Wrote reusable SQL scripts, exported result sets, and documented the entire process
+---
+## 🧪 Real Case Studies I Completed
+| Case Study | Focus | Tools |
+|------------|-------|-------|
+| **Amazon Review Dashboard** | Price, rating, discount insights | Excel |
+| **Palmoria HR Analytics** | Pay gap, salary band, bonus calculation | Excel, Power BI |
+| **KMS Inventory Analysis** | SQL queries for sales & operations | SQL |
+---
 ## 🎯 Skills Demonstrated
 _- Excel dashboards
 - Business metrics analysis
 - Data visualization
 - Insight-driven storytelling_
-## THE UNLEVELED PLANE OF SQL THAT I LATER LEVELED
-Under this plane I equippped myself with the following using the following commands:
-## THE LEVELED PLANE OF POWER BI
-This is the plane upon which I can say I fly
-
 ## 🚀 Where I’m Headed
 I’m looking forward to advancing my skills in:
 - Intermediate Power BI (DAX, relationships)
 - Excel automation (macros, validation)
 - Python for data wrangling and basic analytics
 ## 📫 Let's Connect
-- 📧 Email: oluwatosinobiheritage061@gmail.com
-- 🔗 LinkedIn: (https://linkedin.com/in/oluwatosin_obisesan)
+- 🌐 GitHub: [!https://img.shields.io/badge/GitHub-Fekoye-blue?style=social&logo=github](https://github.com/Fekoye)
+- [!https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/2347032328005)
+- [!https://img.shields.io/badge/LinkedIn-Oluwatosin%20OYEKOLA-blue?style=social&logo=linkedin](https://www.linkedin.com/in/felix-oyekola-105aaa116)
+- [!https://img.shields.io/badge/Email-oyekolafelixo@gmail.com-blue?style=social&logo=gmail](mailto:oyekolafelixo@gmail.com)
