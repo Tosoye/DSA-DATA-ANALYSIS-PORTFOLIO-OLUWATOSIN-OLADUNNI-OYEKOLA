@@ -55,7 +55,7 @@ What I Did; Dashboard Highlights:
 ##### In the above files, I was able to do the following:
 - Connecting Excel and CSV data
 - Designing reports using slicers, cards, tables, and charts
-- Excellemtly making use of my Pivot table for an accurate analysis
+- Excellently making use of my Pivot table for an accurate analysis
 - Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
 ---
 ### 3 🟢 KMS Inventory SQL Case Study -
