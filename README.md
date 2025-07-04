@@ -41,6 +41,8 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Max discount by category
 - Top 5 products by score
   ---
+
+  
 ### 2 📈 Power BI  for Visual Storytelling – Palmoria HR Analytics - My second Project
 Role: Power BI Analyst  
 Tools: Power BI, Excel  
@@ -59,8 +61,9 @@ What I Did; Dashboard Highlights:
 - Excellently making use of my Pivot table for an accurate analysis
 - Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
 - Overview Dashboard: <img width="960" alt="Dashboard Overview_Oluwatosin Oyekola" src="https://github.com/user-attachments/assets/0cab8439-d8f3-4aa4-a429-29212ab8642a" />
-
   ---
+
+  
 ### 3 🟢 KMS Inventory SQL Case Study -
 **Role:** Data Analyst (SQL + Excel)
 - As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in **SQL Server**, wrote performance-optimized queries, and exported insights to Excel for review.
