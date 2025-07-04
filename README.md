@@ -39,7 +39,6 @@ This Excel-based analysis explores Amazon product review data across 14 business
 - Rating vs discount scatter plot
 - Products with < 1,000 reviews
 - Max discount by category
-- Top 5 products by score
   ---
 
   
