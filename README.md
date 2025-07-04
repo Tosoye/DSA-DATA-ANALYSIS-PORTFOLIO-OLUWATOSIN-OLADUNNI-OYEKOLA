@@ -58,6 +58,8 @@ What I Did; Dashboard Highlights:
 - Designing reports using slicers, cards, tables, and charts
 - Excellently making use of my Pivot table for an accurate analysis
 - Dashboard design: HR bonus analysis, pay gap insights (Palmoria case)
+- Overview Dashboard: <img width="960" alt="Dashboard Overview_Oluwatosin Oyekola" src="https://github.com/user-attachments/assets/0cab8439-d8f3-4aa4-a429-29212ab8642a" />
+
   ---
 ### 3 🟢 KMS Inventory SQL Case Study -
 **Role:** Data Analyst (SQL + Excel)
