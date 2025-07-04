@@ -1,0 +1,32 @@
+# Palmoria Group HR Analytics
+
+## 🏢 Case Study Overview
+Palmoria, a manufacturing company in Nigeria, is facing scrutiny over gender inequality and salary structure issues. As a data analyst, I was tasked with uncovering these insights and providing actionable recommendations.
+
+## 📊 Tools Used
+- Excel (pivot tables, formulas)
+- Power BI (optional visuals)
+- Data cleaning, modeling, and visual storytelling
+
+## 🔍 Key Analyses
+- Gender distribution by department and region
+- Pay gap identification by gender, department, and region
+- Minimum wage compliance check ($90,000+ rule)
+- Salary band segmentation
+- Bonus allocation modeling from performance ratings
+
+## 📌 Results
+- Identified departments with a gender pay gap
+- 17% of employees fell below regulatory pay
+- Bonus modeling helped compute fair total compensation
+- Full summary and recommendations included
+
+## 📁 Files
+- `Palmoria_HR_Analysis_Report.xlsx` — OLUWATOSIN OYEKOLA
+- `dashboard.pbix` — Power BI version 
+
+## 🎯 Key Skills Demonstrated
+- Data wrangling
+- KPI analysis and segmentation
+- Excel modeling
+- Business insight delivery
